@@ -483,7 +483,6 @@ Waste collection schedules in the following formats and countries are supported.
 - [Kreisstadt Groß-Gerau](/doc/ics/gross_gerau_de.md) / gross-gerau.de
 - [Kreisstadt St. Wendel](/doc/source/c_trace_de.md) / sankt-wendel.de
 - [Kreiswerke Schmalkalden-Meiningen GmbH](/doc/source/hausmuell_info.md) / kwsm.de
-- [Kreiswirtschaftsbetriebe Goslar](/doc/source/kwb_goslar_de.md) / kwb-goslar.de
 - [Kronberg im Taunus](/doc/source/abfallnavi_de.md) / kronberg.de
 - [KV Cochem-Zell](/doc/source/buergerportal_de.md) / cochem-zell-online.de
 - [KWU Entsorgung Landkreis Oder-Spree](/doc/source/kwu_de.md) / kwu-entsorgung.de
